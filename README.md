@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crocodile-Chris
 - 👀 I’m interested in car racing and cars in general
-- 🌱 I’m currently learning accounting
+- 🌱 I’m currently learning full-stack dev
 - 💞️ I’m looking to collaborate on computer vision, generative AI, LLM, and machine learning projects in general.
 - 📫 How to reach me crochris9@gmail.com
 - ⚡ Fun fact: B.S. in Computer Engineering. MSc in Computer Science. Currently pursuing my PhD in Mechanical Engineering.
